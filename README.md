@@ -34,8 +34,8 @@
 
 <p align="center">
 <a  href="https://github.com/nduytung">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nduytung&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nduytung&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nduytung&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="150px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nduytung&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
 
