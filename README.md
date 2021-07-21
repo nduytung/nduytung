@@ -12,7 +12,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at <b>nduytung.1611@gmail.com</b>, or inbox me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as soon as possible.
 
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -42,17 +41,15 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nduytung"><img src="https://img.shields.io/badge/-Nguyen%20Duy%20Tung-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nduytung.1611@gmail.com"><img src="https://img.shields.io/badge/-nduytung.1611@-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dt.n__/"><img src="https://img.shields.io/badge/-@dt.n__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/Rye1611/"><img src="https://img.shields.io/badge/-DuyTung-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
 
 ---
 
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
+Modified by: Duy Tung
+Last Edited on: 07/21/2021
