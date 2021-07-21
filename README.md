@@ -1,4 +1,4 @@
-!
+
 
 <h2>Hey there! My name's Duy Tung </h2>
 
@@ -12,7 +12,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at <b>nduytung.1611@gmail.com</b>, or inbox me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as soon as possible.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
