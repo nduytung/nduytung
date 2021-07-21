@@ -2,11 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, �my name's Duy Tung - and I'm new to <coding/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<div align="center" width="50">
+<div display="flex>
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Welcome!" width="300"/>
-
-</div>
 
 <div align="center">
 
@@ -18,7 +15,12 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <i>GL, HF </i> 😊
 
 </div>
+                                         <div align="center" width="50">
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Welcome!" width="300"/>
+
+</div>
+                                         </div>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduytung)](https://github.com/anuraghazra/github-readme-stats)
