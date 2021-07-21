@@ -1,4 +1,3 @@
-!
 
 <h2>Hey there! My name's Duy Tung </h2>
 
@@ -33,7 +32,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a  href="https://github.com/nduytung">
+<a height="300px" href="https://github.com/nduytung">
   <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nduytung&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="150px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nduytung&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
