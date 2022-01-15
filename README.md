@@ -2,7 +2,7 @@
 
 <hr />
 <h3>👨🏻‍💻 ABOUT ME</h3>
-<br />
+
 🎓 <b>Currently studying </b> Computer Systems Networking and Telecommunications
 (Junior) - at UIT (VNUHCM) <br />
 🌱 <b> Currently working as </b> Fresher Front-end developer at
