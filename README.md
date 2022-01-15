@@ -1,7 +1,7 @@
 <h1>Hey there, my name's Duy Tung - and nice to meet you!</h1>
 
 <hr />
-👨🏻‍💻 ABOUT ME <br />
+👨🏻‍💻 <h3>ABOUT ME</h3>  <br />
 🎓 <b>Currently studying </b> Computer Systems Networking and Telecommunications
 (Junior) - at UIT (VNUHCM) <br />
 🌱 <b> Currently working as </b> Fresher Front-end developer at
@@ -15,7 +15,8 @@ me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as
 soon as possible.
 
 <hr />
-🛠 MY TECHNICAL STACKS
+🛠 
+<h3>MY TECHNICAL STACKS</h3>
 
 <img
   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
@@ -62,7 +63,7 @@ soon as possible.
 />
 
 <hr />
-:floppy_disk: GITHUB ANALYTICS
+:floppy_disk: <h3>GITHUB ANALYTICS</h3>
 
 <p align="left">
   <a href="https://github.com/nduytung">
@@ -78,7 +79,7 @@ soon as possible.
 </p>
 
 <hr />
-🤝🏻 CONTACT ME AT FOR FURTHER INFORMATION AT
+🤝🏻 <h3>CONTACT ME AT FOR FURTHER INFORMATION AT</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nduytung"
