@@ -79,7 +79,7 @@ soon as possible.
 </p>
 
 <hr />
-<h3>🤝🏻 CONTACT ME AT FOR FURTHER INFORMATION AT</h3>
+<h3>🤝🏻 CONTACT ME FOR FURTHER INFORMATION AT</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nduytung"
