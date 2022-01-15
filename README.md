@@ -1,9 +1,7 @@
 <h1>Hey there, my name's Duy Tung - and nice to meet you!</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 <hr/>
-### 👨🏻‍💻 &nbsp;ABOUT ME 
+👨🏻‍💻 &nbsp;ABOUT ME 
 🎓 &nbsp;<b>Studying </b> Computer Systems Networking and Telecommunications (Junior) - at UIT (VNUHCM) 
 <br/> 🌱 &nbsp; <b> Currently working as </b> Fresher Front-end developer at <a href="https://www.medx.vn/"> MedX.vn </a>.
 <br/> 🤝🏻 &nbsp; <b> Also working at </b> WebDev Studios - UIT as <b> President </b> 
@@ -14,7 +12,7 @@ me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as
 soon as possible. 
 
 <hr/>
-### 🛠 &nbsp;MY TECHNICAL STACKS
+🛠 &nbsp;MY TECHNICAL STACKS
 
 <img
   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
@@ -63,7 +61,7 @@ soon as possible.
 />&nbsp; 
 
 <hr/>
-### :floppy_disk: &nbsp;GITHUB ANALYTICS
+:floppy_disk: &nbsp;GITHUB ANALYTICS
 
 <p align="left">
   <a href="https://github.com/nduytung">
@@ -79,7 +77,7 @@ soon as possible.
 </p>
 
 <hr/>
-### 🤝🏻 &nbsp;CONTACT ME AT
+🤝🏻 &nbsp;CONTACT ME AT FOR FURTHER INFORMATION AT
 
 <p align="center">
   <a href="https://linkedin.com/in/nduytung"
@@ -101,5 +99,6 @@ soon as possible.
 </p>
 
 <hr/>
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508) Modified by: Duy
-Tung Last Edited on: 01/15/2021
+Credits to [Aditya Vikram Singh](https://github.com/AVS1508) <br/>
+Modified by Duy Tung <br/>
+Last Edited on: 01/15/2021 <br/>
