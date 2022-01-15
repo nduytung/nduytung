@@ -1,7 +1,8 @@
 <h1>Hey there, my name's Duy Tung - and nice to meet you!</h1>
 
 <hr />
- <h3>👨🏻‍💻 ABOUT ME</h3>  <br />
+<h3>👨🏻‍💻 ABOUT ME</h3>
+<br />
 🎓 <b>Currently studying </b> Computer Systems Networking and Telecommunications
 (Junior) - at UIT (VNUHCM) <br />
 🌱 <b> Currently working as </b> Fresher Front-end developer at
@@ -15,7 +16,7 @@ me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as
 soon as possible.
 
 <hr />
- <h3>🛠 MY TECHNICAL STACKS</h3>
+<h3>🛠 MY TECHNICAL STACKS</h3>
 
 <img
   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
@@ -78,7 +79,7 @@ soon as possible.
 </p>
 
 <hr />
- <h3>🤝🏻 CONTACT ME AT FOR FURTHER INFORMATION AT</h3>
+<h3>🤝🏻 CONTACT ME AT FOR FURTHER INFORMATION AT</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nduytung"
@@ -100,6 +101,7 @@ soon as possible.
 </p>
 
 <hr />
-Credits to [Aditya Vikram Singh](https://github.com/AVS1508) <br />
-Modified by Duy Tung <br />
+Credits to <a href="https://github.com/AVS1508"> Aditya Vikram Singh </a> for this template.
+<br />
+Modified & customized by Duy Tung <br />
 Last Edited on: 01/15/2021 <br />
