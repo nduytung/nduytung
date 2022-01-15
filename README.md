@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;ABOUT ME 
 🎓 &nbsp;<b>Studying </b> Computer Systems Networking and Telecommunications (Junior) - at UIT (VNUHCM) 
-\ 🌱 &nbsp; <b> Currently working as </b> Fresher Front-end developer at <a href="https://www.medx.vn/"> MedX.vn </a>.
-\ &nbsp; 🤝🏻 <b> Also working at </b> WebDev Studios - UIT as <b> President </b> 
-\ 💬 &nbsp; Feel free to reach me out for pro bono consulting and volunteering, or
+<br/> 🌱 &nbsp; <b> Currently working as </b> Fresher Front-end developer at <a href="https://www.medx.vn/"> MedX.vn </a>.
+<br/> &nbsp; 🤝🏻 <b> Also working at </b> WebDev Studios - UIT as <b> President </b> 
+<br/> 💬 &nbsp; Feel free to reach me out for pro bono consulting and volunteering, or
 just for some interesting discussions. 
-\ ✉️ &nbsp;You can email me via <a href="mailto:nduytung.1611@gmail.com">nduytung.1611@gmail.com</a>, or inbox
+<br/> ✉️ &nbsp;You can email me via <a href="mailto:nduytung.1611@gmail.com">nduytung.1611@gmail.com</a>, or inbox
 me at <a href="https://facebook.com/Rye1611/"> my Facebook</a>. I'll be there as
 soon as possible. 
 
