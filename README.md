@@ -5,7 +5,7 @@
 
 🎓 <b>Currently studying </b> Computer Systems Networking and Telecommunications
 (Senior) - at UIT (VNUHCM) <br />
-🌱 <b> Currently working as </b> Fresher Front-end developer at
+🌱 <b> Currently working as </b> Front-end developer at
 <a href="https://www.medx.vn/"> MedX.vn </a>. <br />
 🤝🏻 <b> Also working at </b> WebDev Studios - UIT as <b> President </b> <br />
 💬 Feel free to reach me out for pro bono consulting and volunteering, or just
